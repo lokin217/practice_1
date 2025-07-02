@@ -1,0 +1,36 @@
+# Python requirements for EHR project
+# Converted from conda env.yml
+
+# Core Python packages
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+joblib
+
+# Jupyter and notebook tools
+jupyterlab
+ipywidgets
+notebook
+voila
+marimo
+
+# Data processing and utilities
+wget
+tqdm
+regex
+fsspec
+python-dotenv
+wheel
+pyodbc
+pyarrow
+more-itertools
+plotly
+findiff
+openpyxl
+p_tqdm
+
+# Development tools
+nodejs
+buckaroo 
